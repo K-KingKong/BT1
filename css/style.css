@@ -184,8 +184,49 @@ body{
     width: 30%;
     display: inline-block;
     margin: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
     text-align: center;
     border: 2px solid dodgerblue;
+    position: relative;
+    padding-top: 30px;
+}
+
+.box-1 h3 {
+    position: absolute;
+    top: -50px;
+    left: 34%;
+    background: #6495ec;
+    padding: 20px;
+    color: #fff;
+    border-radius: 50%;
+}
+
+/*CYCLE SLIDER*/
+#cycle{
+    width: 970px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.img-responsive{
+    max-width: 100%;
+}
+
+.cycle-prev{
+    positon: absolute;
+    top: 50px;
+    left: 5px;
+}
+
+.cycle-next{
+    positon: absolute;
+    top: 50px;
+    right: 5px;
+}
+
+#cycle a{
+    color: #6495ec;
 }
 
 /*FOOTER QUOTE*/
@@ -202,6 +243,7 @@ body{
     font-size: 16px;
     width: 10%;
     cursor:pointer;
+    float: right;
 }
 
 #quote toll{
