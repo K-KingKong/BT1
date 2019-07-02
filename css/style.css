@@ -7,7 +7,7 @@ body{
 
 /*TOP HEADER*/
 #top-header{
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid lightgrey;
 }
 
 /*TOP LEFT HEADER*/
@@ -22,14 +22,14 @@ body{
 }
 
 #right-top-header a{
-    color: #393939;
+    color: black;
     display: block;
     padding: 10px;
-    border-right: 1px solid grey;
+    border-right: 1px solid lightgrey;
 }
 
 #right-top-header ul li:first-child {
-    border-left: 1px solid grey;
+    border-left: 1px solid lightgrey;
 }
 
 #right-top-header ul{
@@ -55,7 +55,7 @@ body{
 
 /*CONTACT HEADER*/
 #contact-header{
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid lightgrey;
 }
 
 /*LOGO IN CONTACT HEADER*/
@@ -84,7 +84,7 @@ body{
 
 .icon{
     float: left;
-    background: #3a73ff;
+    background: black;
     color: white;
     padding: 10px 14px;
     border-radius: 45px;
@@ -101,7 +101,7 @@ body{
 
 /*MENU HEADER*/
 #menu-header{
-    background: #3a73ff;
+    background: black;
     text-align: center;
     color: white;
 }
@@ -125,7 +125,7 @@ body{
 }
 
 #menu-header a:hover{
-    color: deepskyblue;
+    color: grey;
 }
 
 /*MAIN SLIDER*/
@@ -135,9 +135,10 @@ body{
 
 .content-slider{
     position: absolute;
-    top: 25%;
+    top: 17%;
     text-align: center;
     color: white;
+    margin-left: 25%;
 }
 
 /*MAIN SERVICES*/
@@ -158,17 +159,19 @@ body{
 /*MAIN ADS*/
 #ads{
     clear: both;
-    background: gainsboro;
+    background: black;
     padding: 20px;
 }
 
 #ads-text{
     display: inline-block;
     width: 50%;
+    color: white;
 }
 
 #ads-text ul{
     list-style-type: circle;
+    color: lightgrey;
 }
 
 #ads-image{
@@ -187,7 +190,7 @@ body{
     margin-top: 40px;
     margin-bottom: 20px;
     text-align: center;
-    border: 2px solid dodgerblue;
+    border: 2px solid black;
     position: relative;
     padding-top: 30px;
 }
@@ -196,7 +199,7 @@ body{
     position: absolute;
     top: -50px;
     left: 34%;
-    background: #6495ec;
+    background: black;
     padding: 20px;
     color: #fff;
     border-radius: 50%;
@@ -215,14 +218,15 @@ body{
 
 .cycle-prev{
     positon: absolute;
-    top: 50px;
-    left: 5px;
+    display: inline-block;
+    top: -50%;
 }
 
 .cycle-next{
     positon: absolute;
-    top: 50px;
-    right: 5px;
+    display: inline-block;
+    float: right;
+    top: 50%;
 }
 
 #cycle a{
@@ -231,14 +235,15 @@ body{
 
 /*FOOTER QUOTE*/
 #quote{
-    background: cornflowerblue;
+    background: black;
     padding: 50px;
+    color: white;
 }
 
 .quote-button{
     display: inline-block;
-    background: black;
-    color: white;
+    background: whitesmoke;
+    color: black;
     padding: 10px 10px;
     font-size: 16px;
     width: 10%;
@@ -255,19 +260,12 @@ body{
 #links{
     clear: both;
     overflow: auto;
-    background: #3a73ff;
+    background: white;
     padding: 10px;
 }
 
-.col-4-1 p{
+.col-4-1 h3{
     border-bottom: 1px solid black;
-}
-
-#red-text{
-    border-bottom: none;
-    color: red;
-    margin: 0;
-    font-weight: bold;
 }
 
 .col-4-1 a{
@@ -276,7 +274,7 @@ body{
 }
 
 .col-4-1 a:hover{
-    color: white;
+    color: grey;
 }
 
 .col-4-1{
@@ -285,18 +283,22 @@ body{
     margin-right: 50px;
 }
 
+.col-4-1 ul{
+    list-style-type: none;
+    padding: 0;
+}
+
 #email{
-    border: 1px solid white;
-    padding: 10px;
+    border: 1px solid black;
     margin: 10px 10px 0 0;
-    background: #3a73ff;
+    background: white;
     padding: 12px 30px;
 }
 
 #subs{
     border: none;
     color: white;
-    background: darkblue;
+    background: black;
     margin: 5px 0;
     padding: 5px 8px;
     cursor: pointer;
@@ -309,7 +311,8 @@ body{
     clear: both;
     padding: 10px;
     text-align: center;
-    background: #41b5ff;
+    background: ghostwhite;
+    color: black;
 }
 
 

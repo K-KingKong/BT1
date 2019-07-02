@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4660e197-9e6c-498e-aba8-da2e48a6d941" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BT1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/winter.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.12.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.cycle2.min.js" beforeDir="false" />
     </list>
     <list id="596084d8-8692-4715-a852-175221a5e675" name="BT1 Website landing page" comment="" />
     <list id="5e7aabe1-499f-4efc-8cb9-595a1fa7edeb" name="Revert &quot;BT1 Website landing page&quot;" comment="" />
@@ -27,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="227" column="9" selection-start-line="227" selection-start-column="9" selection-end-line="227" selection-end-column="9" />
+            <state relative-caret-position="354">
+              <caret line="285" column="11" lean-forward="true" selection-start-line="285" selection-start-column="11" selection-end-line="285" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -36,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="167" column="20" lean-forward="true" selection-start-line="167" selection-start-column="20" selection-end-line="167" selection-end-column="20" />
+            <state relative-caret-position="262">
+              <caret line="222" column="35" selection-start-line="222" selection-start-column="35" selection-end-line="222" selection-end-column="35" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -60,6 +61,10 @@
     <findStrings>
       <find>absolute</find>
       <find>contain</find>
+      <find>logo</find>
+      <find>offer</find>
+      <find>ads</find>
+      <find>hover</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -81,7 +86,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1244" />
+    <option name="width" value="1439" />
     <option name="height" value="803" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -110,7 +115,75 @@
             <path>
               <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
               <item name="BT1" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BT1" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BT1" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BT1" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="owl.theme.default.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BT1" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="owl.theme.green.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BT1" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BT1" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BT1" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BT1" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BT1" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+              <item name="owl.carousel.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -160,7 +233,7 @@
       <workItem from="1559728974268" duration="2542000" />
       <workItem from="1559731532375" duration="8843000" />
       <workItem from="1559792293491" duration="7161000" />
-      <workItem from="1562039931180" duration="5451000" />
+      <workItem from="1562039931180" duration="12029000" />
     </task>
     <task id="LOCAL-00001" summary="BT1 Website landing page">
       <created>1559791696764</created>
@@ -204,15 +277,23 @@
       <option name="project" value="LOCAL" />
       <updated>1559794985764</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Init BT1 Website landing page">
+      <created>1562046200768</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1562046200768</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38770000" />
+    <option name="totallyTimeSpent" value="45348000" />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
     </todo-panel>
     <todo-panel id="all">
       <are-packages-shown value="true" />
@@ -220,10 +301,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1244" height="803" extended-state="0" />
+    <frame x="0" y="23" width="1439" height="803" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1921797" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20830351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Repositories" order="3" weight="0.3297568" />
@@ -271,6 +352,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -363,15 +454,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="227" column="9" selection-start-line="227" selection-start-column="9" selection-end-line="227" selection-end-column="9" />
+        <state relative-caret-position="354">
+          <caret line="285" column="11" lean-forward="true" selection-start-line="285" selection-start-column="11" selection-end-line="285" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="167" column="20" lean-forward="true" selection-start-line="167" selection-start-column="20" selection-end-line="167" selection-end-column="20" />
+        <state relative-caret-position="262">
+          <caret line="222" column="35" selection-start-line="222" selection-start-column="35" selection-end-line="222" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
