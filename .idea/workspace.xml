@@ -4,11 +4,7 @@
     <list default="true" id="4660e197-9e6c-498e-aba8-da2e48a6d941" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sample.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/winter.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.12.4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.cycle2.min.js" beforeDir="false" />
     </list>
     <list id="596084d8-8692-4715-a852-175221a5e675" name="BT1 Website landing page" comment="" />
     <list id="5e7aabe1-499f-4efc-8cb9-595a1fa7edeb" name="Revert &quot;BT1 Website landing page&quot;" comment="" />
@@ -28,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="285" column="11" lean-forward="true" selection-start-line="285" selection-start-column="11" selection-end-line="285" selection-end-column="11" />
+            <state relative-caret-position="167">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -37,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="222" column="35" selection-start-line="222" selection-start-column="35" selection-end-line="222" selection-end-column="35" />
+            <state relative-caret-position="166">
+              <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -65,6 +61,7 @@
       <find>offer</find>
       <find>ads</find>
       <find>hover</find>
+      <find>container</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -76,8 +73,8 @@
         <option value="$PROJECT_DIR$/bootstrap.html" />
         <option value="$PROJECT_DIR$/js/jquery341.js" />
         <option value="$PROJECT_DIR$/js/cycle2.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -106,84 +103,6 @@
               <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
               <item name="BT1" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BT1" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BT1" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BT1" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BT1" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BT1" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="owl.theme.default.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BT1" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="owl.theme.green.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BT1" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BT1" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BT1" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BT1" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BT1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BT1" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
-              <item name="owl.carousel.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -233,7 +152,9 @@
       <workItem from="1559728974268" duration="2542000" />
       <workItem from="1559731532375" duration="8843000" />
       <workItem from="1559792293491" duration="7161000" />
-      <workItem from="1562039931180" duration="12029000" />
+      <workItem from="1562039931180" duration="12773000" />
+      <workItem from="1562126943825" duration="73000" />
+      <workItem from="1562127037859" duration="6519000" />
     </task>
     <task id="LOCAL-00001" summary="BT1 Website landing page">
       <created>1559791696764</created>
@@ -284,11 +205,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562046200768</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Owl Casourel Slideshow with page design">
+      <created>1562054261585</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562054261585</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45348000" />
+    <option name="totallyTimeSpent" value="52684000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -304,7 +232,7 @@
     <frame x="0" y="23" width="1439" height="803" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20830351" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21403006" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Repositories" order="3" weight="0.3297568" />
@@ -327,7 +255,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742489" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21403006" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Repositories" order="3" weight="0.3297568" />
@@ -409,60 +337,34 @@
     <MESSAGE value="BT1 Website landing page" />
     <MESSAGE value="Revert &quot;BT1 Website landing page&quot;" />
     <MESSAGE value="Init BT1 Website landing page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init BT1 Website landing page" />
+    <MESSAGE value="Owl Casourel Slideshow with page design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Owl Casourel Slideshow with page design" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/awesomefont/css/fontawesome.css" />
     <entry file="file://$PROJECT_DIR$/bootstrap.html" />
-    <entry file="file://$PROJECT_DIR$/js/jquery341.js">
+    <entry file="file://$PROJECT_DIR$/js/jquery341.js" />
+    <entry file="file://$PROJECT_DIR$/js/cycle2.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery.cycle2.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.4.1.slim.min.js" />
+    <entry file="file://$PROJECT_DIR$/bootstrap/less/grid.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="70747" selection-start-line="1" selection-start-column="70747" selection-end-line="1" selection-end-column="70747" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/cycle2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="496" selection-start-line="14" selection-start-column="496" selection-end-line="14" selection-end-column="496" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.cycle2.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery-3.4.1.slim.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="162">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="285" column="11" lean-forward="true" selection-start-line="285" selection-start-column="11" selection-end-line="285" selection-end-column="11" />
+        <state relative-caret-position="167">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="222" column="35" selection-start-line="222" selection-start-column="35" selection-end-line="222" selection-end-column="35" />
+        <state relative-caret-position="166">
+          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

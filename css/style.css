@@ -11,6 +11,10 @@ body{
 }
 
 /*TOP LEFT HEADER*/
+#top-left-header{
+    display: inline-block;
+}
+
 #top-left-header p{
     margin: 0px;
     padding: 10px 0;
@@ -18,6 +22,7 @@ body{
 
 /*RIGHT TOP HEADER*/
 #right-top-header{
+    display: inline-block;
     float: right;
 }
 
@@ -43,15 +48,15 @@ body{
 }
 
 /*TOP HEADER CONTAINER*/
-.container{
+.container-css{
     width: 1100px;
     margin: 0 auto;
 }
 
 /*TOP HEADER COL*/
-.col{
-    display: inline-block;
-}
+/*.col{*/
+/*    display: inline-block;*/
+/*}*/
 
 /*CONTACT HEADER*/
 #contact-header{
@@ -61,23 +66,22 @@ body{
 /*LOGO IN CONTACT HEADER*/
 #logo{
     display: inline-block;
-    width: 20%;
-    padding: 20px 0;
+    padding: 15px 0;
 }
 
 /*CONTACT IN CONTACT HEADER*/
-#contact{
+.contact{
     display: inline-block;
-    width: 78%;
-    text-align: right;
+    /*width: 78%;*/
+    /*text-align: right;*/
 }
 
-#contact-header ul{
+.contact-header ul{
     list-style-type: none;
     padding: 0;
 }
 
-#contact-header ul li{
+.contact-header ul li{
     display: inline-block;
     margin-left: 100px;
 }
@@ -88,7 +92,7 @@ body{
     color: white;
     padding: 10px 14px;
     border-radius: 45px;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 .content{
@@ -146,6 +150,7 @@ body{
     width: 30%;
     float: left;
     margin-right: 50px;
+    margin-top: 5px;
 }
 
 .col-3:last-child{
@@ -230,7 +235,7 @@ body{
 }
 
 #cycle a{
-    color: #6495ec;
+    color: black;
 }
 
 /*FOOTER QUOTE*/

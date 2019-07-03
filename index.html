@@ -11,17 +11,19 @@
     <link rel="icon" href="images/logo.jpg">
     <link rel="stylesheet" href="owlcarousel/docs/assets/owlcarousel/assets/owl.carousel.css" type="text/css">
     <link rel="stylesheet" href="owlcarousel/dist/assets/owl.theme.default.css" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
 </head>
 <body>
 <!--BEGIN HEADER-->
 <div id="header">
     <!--    BEGIN TOP HEADER-->
-    <div id="top-header">
-        <div class="container">
-            <div id="top-left-header" class="col">
+    <div id="top-header" class="container-fluid">
+        <div class="row">
+            <div id="top-left-header" class="col-sx-6">
                 <p>Welcome to Dee and Jay shop</p>
             </div>
-            <div id="right-top-header" class="col">
+            <div id="right-top-header" class="col-sx-6">
                 <ul>
                     <li><a href="#" tittle="Facebook"><i class="fa fa-facebook"></i></a></li>
                     <li><a href="#" tittle="Twitter"><i class="fa fa-twitter"></i></a></li>
@@ -34,34 +36,32 @@
     </div>
     <!--    END TOP HEADER-->
     <!--    BEGIN CONTACT HEADER-->
-    <div id="contact-header">
-        <div class="container">
-            <div id="logo">
+    <div class="contact-header" class="container-fluid">
+        <div class="row">
+            <div id="logo" class="col-sx-3">
                 <a href="index.html" tittle="Main page">
                     <img src="images/logo.jpg" width="100px">
                 </a>
             </div>
-            <div id="contact">
+            <div class="col-sx-9 contact">
                 <ul>
-                    <li>
-                        <div class="item-contact">
-                            <p class="icon"><i class="fa fa-phone"></i></p>
-                            <p class="content"><strong>Phone</strong><br/>+01 123456</p>
+                    <li class="row">
+                        <div class="item-contact" class="col-sx-3">
+                            <p class="icon col-sx-6"><i class="fa fa-phone"></i></p>
+                            <p class="content col-sx-6"><strong>Phone</strong><br/>+01 (123) 4567</p>
                         </div>
                     </li>
-                    <li>
-                        <div class="item-contact">
-                            <p class="icon"><i class="fa fa-clock-o"></i></p>
-                            <p class="content"><strong>E-mail</strong><br/>super@cool.vn</p>
+                    <li class="row">
+                        <div class="item-contact" class="col-sx-3">
+                            <p class="icon col-sx-6"><i class="fa fa-clock-o"></i></p>
+                            <p class="content col-sx-6"><strong>E-mail</strong><br/>super@cool.us</p>
                         </div>
-                        <div class="item-contact"> </div>
                     </li>
-                    <li>
-                        <div class="item-contact">
-                            <p class="icon"><i class="fa fa-location-arrow"></i></p>
-                            <p class="content"><strong>Location</strong><br/>Fullerton, CA, USA</p>
+                    <li class="row">
+                        <div class="item-contact" class="col-sx-3">
+                            <p class="icon col-sx-6"><i class="fa fa-location-arrow"></i></p>
+                            <p class="content col-sx-6"><strong>Location</strong><br/>Los Angeles, CA USA</p>
                         </div>
-                        <div class="item-contact"> </div>
                     </li>
                 </ul>
             </div>
@@ -97,7 +97,7 @@
     <!--    END SLIDER-->
     <!--    BEGIN SERVICES-->
     <div id="services">
-        <div class="container">
+        <div class="container-css">
             <div class="col-3">
                 <img src="images/1.jpg" width="100%">
                 <div class="services-content">
@@ -124,7 +124,7 @@
     <!--    END SERVICES-->
     <!--    BEGIN ADS-->
     <div id="ads">
-        <div class="container">
+        <div class="container-css">
             <div id="ads-text">
                 <h3>We offer the best services</h3>
                 <p>Google News is a news aggregator and app developed by Google. It presents a continuous, customizable flow of articles organized from thousands of publishers and magazines. Google News is available on Android, iOS, and the web. A beta version was launched in September 2002, and released officially in January 2006.</p>
@@ -142,7 +142,7 @@
     </div>
     <!--    END ADS-->
     <div id="box">
-        <div class="container">
+        <div class="container-css">
             <div class="box-1">
                 <h3>Support</h3>
                 <p>How unlucky I am that this should happen to me. But not at all. Perhaps, say how lucky I am that I am not broken by what has happened, and I am not afraid of what is about to happen.</p>
@@ -158,35 +158,25 @@
         </div>
     </div>
     <!--    START CYCLE SLIDERS-->
-    <!--    <script src="jquery/jquery-1.12.4.min.js" type="text/javascript"></script>-->
-    <!--    <script src="jquery/jquery.cycle2.min.js" type="text/javascript"></script>-->
-    <!--    <script>-->
-    <!--        $(document).ready(function(){-->
-    <!--            $("#cycle-1").cycle({speed: 4000, fx: 'none'});-->
-    <!--            $("#cycle-2").cycle({speed: 2000, fx: 'fadeout'});-->
-    <!--        })-->
-    <!--    </script>-->
-    <!--    <div id="cycle">-->
-    <!--        <div id="cycle-1">-->
-    <!--            <div class="cycle-prev"><a href="#"><i class="fa fa-arrow-left fa-2x"></i></a></div>-->
-    <!--            <div class="cycle-next"><a href="#"><i class="fa fa-arrow-right fa-2x"></i></a></div>-->
-    <!--            <img src="images/1.jpg" class="img-responsive">-->
-    <!--            <img src="images/2.jpg" class="img-responsive">-->
-    <!--            <img src="images/3.jpg" class="img-responsive">-->
-    <!--            <img src="images/4.jpg" class="img-responsive">-->
-    <!--            <img src="images/5.jpg" class="img-responsive">-->
-    <!--        </div>-->
-
-    <!--        <div id="cycle-2">-->
-    <!--            <div class="cycle-prev"><a href="#"><i class="fa fa-arrow-left fa-2x"></i></a></div>-->
-    <!--            <div class="cycle-next"><a href="#"><i class="fa fa-arrow-right fa-2x"></i></a></div>-->
-    <!--            <img src="images/1.jpg" class="img-responsive">-->
-    <!--            <img src="images/2.jpg" class="img-responsive">-->
-    <!--            <img src="images/3.jpg" class="img-responsive">-->
-    <!--            <img src="images/4.jpg" class="img-responsive">-->
-    <!--            <img src="images/5.jpg" class="img-responsive">-->
-    <!--        </div>-->
-    <!--    </div>-->
+    <script src="jquery/jquery-1.12.4.min.js" type="text/javascript"></script>
+    <script src="jquery/jquery.cycle2.min.js" type="text/javascript"></script>
+    <script>
+        $(document).ready(function(){
+            $("#cycle-1").cycle({speed: 4000, fx: 'none'});
+            $("#cycle-2").cycle({speed: 2000, fx: 'fadeout'});
+        })
+    </script>
+    <div id="cycle">
+        <div id="cycle-1">
+            <div class="cycle-prev"><a href="#"><i class="fa fa-arrow-left fa-2x"></i></a></div>
+            <div class="cycle-next"><a href="#"><i class="fa fa-arrow-right fa-2x"></i></a></div>
+            <img src="images/1.jpg" class="img-responsive">
+            <img src="images/2.jpg" class="img-responsive">
+            <img src="images/3.jpg" class="img-responsive">
+            <img src="images/4.jpg" class="img-responsive">
+            <img src="images/5.jpg" class="img-responsive">
+        </div>
+    </div>
     <!--    END CYCLE SLIDERS-->
 
     <!--    START OWL CAROUSEL SLIDESHOW-->
@@ -198,7 +188,7 @@
         <div><img src="images/5.jpg" width="500px"></div>
     </div>
 
-    <script src="jquery/jquery-1.12.4.min.js" type="text/javascript"></script>
+<!--    <script src="jquery/jquery-1.12.4.min.js" type="text/javascript"></script>-->
     <script src="owlcarousel/dist/owl.carousel.min.js" type="text/javascript"></script>
     <script>
         $(document).ready(function(){
@@ -210,13 +200,11 @@
         });
     </script>
     <!--    END OWL CAROUSEL SLIDESHOW-->
-</div>
 <!--END MAIN-->
-
 <footer id="footer">
     <!--    BEGIN QUOTE-->
     <div id="quote" class="clearfix">
-        <div class="container">
+        <div class="container-css">
             <button style="float: right;" class="quote-button">Call us now</button>
             <div class="toll">
                 <h1>We are always here to help you</h1>
@@ -227,7 +215,7 @@
     <!--    END QUOTE-->
     <!--    BEGIN LINKS-->
     <div id="links">
-        <div class="container">
+        <div class="container-css">
             <div class="col-4-1">
                 <h3>Navigation</h3>
                 <a href="#">Home</a><br/>
