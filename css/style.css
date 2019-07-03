@@ -104,33 +104,35 @@ body{
 }
 
 /*MENU HEADER*/
-#menu-header{
+
+#nav{
     background: black;
     text-align: center;
     color: white;
+    margin-bottom: 0;
 }
 
-#menu-header ul{
-    margin: 0;
-    padding: 0;
-}
+/*#menu-header ul{*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
 
-#menu-header ul li{
-    list-style-type: none;
-    display: inline-block;
-}
+/*#menu-header ul li{*/
+/*    list-style-type: none;*/
+/*    display: inline-block;*/
+/*}*/
 
-#menu-header a{
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-    display: block;
-    padding: 15px;
-}
+/*#menu-header a{*/
+/*    text-decoration: none;*/
+/*    color: white;*/
+/*    font-weight: bold;*/
+/*    display: block;*/
+/*    padding: 15px;*/
+/*}*/
 
-#menu-header a:hover{
-    color: grey;
-}
+/*#menu-header a:hover{*/
+/*    color: grey;*/
+/*}*/
 
 /*MAIN SLIDER*/
 #slider{
