@@ -13,7 +13,6 @@ body{
 /*TOP LEFT HEADER*/
 #top-left-header{
     display: inline-block;
-    padding-left: 110px;
 }
 
 #top-left-header p{
@@ -24,7 +23,6 @@ body{
 /*RIGHT TOP HEADER*/
 #right-top-header{
     display: inline-block;
-    padding-left: 700px;
 }
 
 #right-top-header a{
@@ -105,34 +103,13 @@ body{
 
 /*MENU HEADER*/
 
-#nav{
-    background: black;
+#nav {
+    background: #1b1b1b;
     text-align: center;
     color: white;
     margin-bottom: 0;
+    border: none;
 }
-
-/*#menu-header ul{*/
-/*    margin: 0;*/
-/*    padding: 0;*/
-/*}*/
-
-/*#menu-header ul li{*/
-/*    list-style-type: none;*/
-/*    display: inline-block;*/
-/*}*/
-
-/*#menu-header a{*/
-/*    text-decoration: none;*/
-/*    color: white;*/
-/*    font-weight: bold;*/
-/*    display: block;*/
-/*    padding: 15px;*/
-/*}*/
-
-/*#menu-header a:hover{*/
-/*    color: grey;*/
-/*}*/
 
 /*MAIN SLIDER*/
 #slider{
@@ -217,6 +194,7 @@ body{
     width: 970px;
     margin: 0 auto;
     position: relative;
+    padding-bottom: 10px;
 }
 
 .img-responsive{
@@ -224,16 +202,18 @@ body{
 }
 
 .cycle-prev{
-    positon: absolute;
+    position: absolute;
     display: inline-block;
-    top: -50%;
+    top: 50%;
+    z-index: 10000;
 }
 
 .cycle-next{
-    positon: absolute;
+    position: absolute;
     display: inline-block;
     float: right;
     top: 50%;
+    z-index: 10000;
 }
 
 #cycle a{
@@ -325,11 +305,9 @@ body{
 
 
 
-
-
-
-
-
-
-
-
+/*TOP HEADER*/
+@media (max-width: 786px) {
+    .sm-text-center{
+        text-align: center;
+    }
+}
