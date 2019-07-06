@@ -84,7 +84,16 @@ $arr_db = array(
     </tbody>
 </table>
 
+<?php
+/**
+ * Install Xampp 1.7 => Launchpad/Xampp/manager => Manage Server => MySQL Running, ProFTPD Stop, Apache Running
+ * Put src code folder in Application folder/Xampp folder/htdocs
+ * Chrome: http://localhost/phpmyadmin/
+ * http://localhost/bt1/index.php
+ */
 
+
+?>
 
 
 
